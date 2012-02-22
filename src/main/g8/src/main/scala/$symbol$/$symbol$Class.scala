@@ -1,2 +1,2 @@
 
-class $Symbol$()
+class $symbol$()
