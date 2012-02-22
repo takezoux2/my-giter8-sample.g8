@@ -3,8 +3,8 @@ class Stub {
   
   def aa() = "aa"
   
-  $symbol; format="capitalize"$
-  $symbol; format="cap"$
+  $symbol;format="uppercase"$
+  $symbol; format="start-case"$
   $symbol; format="upper"$
   $symbol; format="capitalize"$
   $symbol; format="packaged"$
